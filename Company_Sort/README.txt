@@ -56,3 +56,7 @@ TL: Yash
 PM: Ava
 Developers: Brenna
 Designers: None
+
+
+#note to self
+To improve on this algorithm should implemented heap data structure since we deal with priority would make runtime much faster
